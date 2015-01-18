@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "erikmatijevich@gmail.com",
+    "longName": "fuck steve harvey",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "fuck steve harvey",
+    "uuid": "720d82dd-fe33-41b2-8f00-cb1451553bf0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
